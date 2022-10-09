@@ -21,6 +21,9 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   bdd_widget_test: ^1.4.2
   build_runner:
+  golden_toolkit: ^0.13.0
 
 flutter:  
   uses-material-design: true
+  assets:
+    - images/
